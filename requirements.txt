@@ -1,2 +1,2 @@
-Django<1.99
+Django<2
 python-decouple
